@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
 </a>
 
-Docsify sites use client-side rendering, which means your content will not be indexed by search engines like Google, Bing, or DuckDuckGo.
-
 > A MultiCourse variation of the [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) to quickly create a Markdown-based open multi-course site with the site generator [Docsify](https://docsify.js.org) (v5 Preview). Global navigation elements can be hidden for seamlessly embedding pages (i.e., into an LMS). Includes an optional "Edit this Page" link.
+
+> Docsify sites use client-side rendering, which means your content will not be indexed by search engines like Google, Bing, or DuckDuckGo.
 
 📸 Docsify Open MultiCourse Screenshots
 ---
@@ -631,4 +631,5 @@ _Video 1. Generating Documentation Sites with GitHub and Docsify - Alysson Alvar
 🙇‍Credits and Special Thanks
 ---
 All past and current Docsify.js.org maintainers and contributors.
+
 
