@@ -1,4 +1,4 @@
-# Docsify Open MultiCourse Starter Kit
+# Courses
 
 ---
 
