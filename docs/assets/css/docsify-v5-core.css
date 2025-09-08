@@ -318,11 +318,13 @@
   height: auto;
 }
 
-.markdown-section .banner-image-sidebar {
+aside#__sidebar .banner-image-sidebar {
   width: 100%; /* fills full width of sidebar */
+  max-width: 240px; /* prevents it from getting too wide */
   height: auto;
-  max-height: 155px; /* prevents it from getting too tall */
+  max-height: 175px; /* prevents it from getting too tall */
   object-fit: cover; /* crops image to fit dimensions */
+  margin-right: 29px;
   display: block;
 }
 
@@ -660,6 +662,7 @@ aside#__sidebar:has(.sidebar-nav > .banner-image:first-child) .app-nav-merged {
   margin: 0 0 .1rem 0;
   padding-bottom: .5rem;
   font-size: 1.3rem;
+  border-style: none;
 }
 
 /* Adjust space above and below h2 that follows edge-to-edge images */
