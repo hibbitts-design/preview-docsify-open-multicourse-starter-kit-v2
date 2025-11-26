@@ -21,6 +21,7 @@
 * Keyboard scrolling is supported within code blocks (via Docsify v5)
 * Improved search results, which exclude Markdown formatting syntax (via Docsify v5)
 * Added variable for applying Docsify v5 core theme defaults
+* Updated support of Docsify config topMargin to CSS var `scroll-padding-top`
 
 **Bugfix:**
 * Handle use of Coverpage title link with duplicate id
@@ -31,8 +32,19 @@
 
 # Changelog
 
+## [v1.3.5](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.3.5)
+### 11/26/2025
+
+**New:**
+* Added sidebar banner image support via HTML image
+* Automatic image path resolution for HTML image assets using data-src attribute relative to site base path with fallback support
+* Added (long overdue) basic support for printing
+
+**Improved:**
+* Improved support for Docsify configuration settings of 'topMargin'
+
 ## [v1.3.4](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.3.4)
-### XX/XX/2025
+### 08/01/2025
 
 **New:**
 * Added CSS Markdown classes to support cards (`card` & `card-rounded`) and responsive card lists (`card-list`)
