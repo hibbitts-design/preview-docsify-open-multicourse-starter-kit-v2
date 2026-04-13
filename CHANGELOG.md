@@ -1,7 +1,7 @@
 # Changelog
 
 ## [v2.0.0](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v2.0.0)
-### XX/XX/2025
+### XX/XX/2026
 
 **New:**
 * Built with the modernized and refactored Docsify v5 platform
@@ -23,6 +23,8 @@
 * Improved search results, which exclude Markdown formatting syntax (via Docsify v5)
 * Added variable for applying Docsify v5 core theme defaults
 * Updated support of Docsify config topMargin to CSS var `scroll-padding-top`
+* Move responsive table layout to core CSS so tables render correctly
+* Improve toc and toc-narrow display
 
 **Bugfix:**
 * Handle use of Coverpage title link with duplicate id
