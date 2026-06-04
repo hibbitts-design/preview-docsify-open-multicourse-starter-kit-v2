@@ -6,8 +6,7 @@
 **New:**
 * Built with the modernized and refactored Docsify v5 platform
 * Adoption of Docsify v5's new theme system for enhanced customization and a modern user interface
-* Use of Marked.js v15+ (from Docsify v5) for markdown rendering, providing improved compatibility and rendering capabilities
-* Automatic image path resolution for HTML image assets using data-src attribute relative to site base path with fallback support
+* Use of Marked.js v16+ (from Docsify v5) for markdown rendering, providing improved compatibility and rendering capabilities
 * Added support for responsive tables (with thanks and appreciation to @jhildenbiddle for the original Docsify v4 Themeable plugin)
 
 **Improved:**
@@ -31,9 +30,25 @@
 * Fixed Font Awesome plugin regex to only match :fa- prefixed patterns
 
 **Breaking:**
-* With the use of Docsify v5 Legacy Browsers (for example, Internet Explorer 11) are no longer supported
+* With the use of Docsify v5, Legacy Browsers (for example, Internet Explorer 11) are no longer supported 
 
 # Changelog
+
+## [v1.3.7](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.3.7)
+### 06/03/2026
+
+**Improved:**
+* Add example use of 'include' to show shared a page between courses (cpt-363-3/resources.md)
+* Enhanced search results display with page grouping, section titles, smart deduplication, and keyboard navigation
+
+## [v1.3.6](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.3.6)
+### 12/23/2025
+
+**Improved:**
+* Hide empty rows in responsive tables
+* Left align rows in responsive tables
+* Version-lock Font Awesome CSS assets
+* Minor refresh of Sidebar UI
 
 ## [v1.3.5](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.3.5)
 ### 11/26/2025
