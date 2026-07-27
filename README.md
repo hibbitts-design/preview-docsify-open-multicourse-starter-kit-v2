@@ -1,5 +1,5 @@
-| ⚠️ | **This is a preview-only repository. View the main project repository at https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit.** |
-|---|:--|
+> [!NOTE]
+> This is a preview repository for upcoming changes or additional examples before they're merged into the main project. View the release version at [docsify-open-multicourse-starter-kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit).
 
 # Docsify Open MultiCourse Starter Kit
 
